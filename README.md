@@ -1,7 +1,7 @@
 # Desafio-DIO-2
 
 
-Desafio: Salvando Músicas
+## Desafio: Salvando Músicas
 1 / 1 - Salvando Músicas
 
 Desafio
@@ -14,7 +14,7 @@ A entrada será uma String com o nome da música e seu formato.
 Saída
 A saída deve ser se o arquivo será salvo ou não.
 
-Desafio: Pontos na Carteira
+## Desafio: Pontos na Carteira
 1 / 1 - Pontos na Carteira
 
 Desafio
@@ -28,7 +28,7 @@ A entrada será a velocidade que o veículo está e quantas multas ele já receb
 Saida
 A saída deverá ser quantas multas o motorista já tem e se ele irá receber pontuação na carteira de habilitação.
 
-Desafio: Imóveis Disponíveis
+## Desafio: Imóveis Disponíveis
 1 / 1 - Imóveis Disponíveis
 
 Desafio
@@ -59,7 +59,7 @@ A entrada serão os ingredientes que compõem o lanche.
 Saída
 A saída deverá ser o lanche montado com as palavras que definem os ingredientes.
 
-Desafio: Camarote do Blue Cold Ice Cubes
+## Desafio: Camarote do Blue Cold Ice Cubes
 1 / 1 - Camarote do Blue Cold Ice Cubes
 
 Desafio
